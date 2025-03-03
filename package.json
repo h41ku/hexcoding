@@ -1,5 +1,5 @@
 {
-  "name": "hexencoding",
+  "name": "hexcoding",
   "version": "1.0.0",
   "description": "Кодирование данных в шестнадцатеричном представлении.",
   "type": "module",
