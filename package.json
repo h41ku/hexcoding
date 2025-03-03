@@ -1,0 +1,16 @@
+{
+  "name": "hexencoding",
+  "version": "1.0.0",
+  "description": "Кодирование данных в шестнадцатеричном представлении.",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "keywords": [
+    "hex", "encoding", "hex encoding"
+  ],
+  "author": "h41ku <h41ku.c0de@ya.ru>",
+  "license": "MIT"
+}
